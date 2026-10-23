@@ -5,7 +5,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hrjGE18AAAAJ)
 [![Email](https://img.shields.io/badge/Email-khanhtq%40u.nus.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khanhtq@u.nus.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh4nh12/)
 
 ---
 
